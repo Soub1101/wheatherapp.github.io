@@ -9,5 +9,5 @@ A website using Html, CSS, JS that fetches weather data from an API and displays
 The API provider: http://www.OpenWeatherMap.org
 
 ## Live demo
-[Javascript Weather App](https://github.com/Soub1101/wheatherapp.github.io)
+[Javascript Weather App](https://soub1101.github.io/wheatherapp.github.io/)
 
